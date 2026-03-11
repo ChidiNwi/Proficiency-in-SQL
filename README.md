@@ -9,7 +9,6 @@ Tools Used:
 - SQL
 - Relational Databases
 - SQL Query Environment (MySQL / PostgreSQL / SQLite)
-- 
 This project highlights several fundamental SQL techniques used by data analysts:
 - SELECT statements
 - Filtering data using WHERE
